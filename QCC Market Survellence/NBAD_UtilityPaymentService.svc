@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="QCC_Market_Survellence.NBAD_UtilityPaymentService" CodeBehind="NBAD_UtilityPaymentService.svc.cs" %>

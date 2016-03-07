@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="QCC_Market_Survellence.QCCSystem" CodeBehind="QCCSystem.svc.cs" %>
